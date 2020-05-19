@@ -1,5 +1,6 @@
 body, html, #home {
     height: 100%;
+    overflow-x: hidden;
 }
 
 body {
@@ -75,7 +76,48 @@ h1 {
     color: black
 }
 
+/*  Conteúdos   */
+.caixa {
+    padding: 20px 0;
+}
 
+.albuns {
+    padding: 10px 0;
+}
+
+#servicos {
+    background: white;
+}
+
+#servicos h2, #servicos h3 {
+    color: #7c25f8;
+}
+
+#recursos h2, #recursos p {
+    color: white;
+}
+
+#recursos h3 {
+    color: #9bF0E1;
+}
+
+h2 {
+    font-size: 3em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+}
+
+h3 {
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+}
+
+.rotacionar {
+    transform: rotate(30deg);
+    padding-left: 80px;
+}
+/*  Media Query */
 @media (max-width: 575.98px) {
     .btn-custom {
         margin: 10px 15px;
