@@ -117,6 +117,39 @@ h3 {
     transform: rotate(30deg);
     padding-left: 80px;
 }
+
+/*  Rodapé  */
+footer {
+    background: #000;
+    position: relative;
+    padding: 50px 0 20px 0;
+}
+
+footer h4 {
+    font-size: 0.8em;
+    color:#919496;
+    text-transform: uppercase;
+}
+
+footer .navbar-nav a {
+    color: white;
+    font-size: 0.8em;
+}
+
+footer .navbar-nav a:hover {
+    color: #9bf0e1;
+    text-decoration: none;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer ul li{
+    float: right;
+    margin: 0 5px;
+}
+
 /*  Media Query */
 @media (max-width: 575.98px) {
     .btn-custom {
