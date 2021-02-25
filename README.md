@@ -8,7 +8,7 @@ Desenvolvimento do projeto Spotify Clone, referente ao conteúdo de Bootstrap & 
 - [Bootstrap 4.5](https://getbootstrap.com/)
 - [Font Awesome (Free Version)](https://fontawesome.com/)
 
-### ireitos Autorais
+### Direitos Autorais
 Todas as imagens pertencem ao [Spotify](https://www.spotify.com)
 O repositório e projeto foram criados apenas com a finalidade de estudo para entendimento de técnicas e conceitos 
 de design e responsividade
